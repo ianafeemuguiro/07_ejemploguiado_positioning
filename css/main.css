@@ -1,0 +1,32 @@
+div{
+	width: 200px;
+	height: 200px;
+}
+.rojo{
+	background-color: red;	
+}
+.verde{
+	background-color: green;
+}	
+.amarillo{
+	background-color: yellow;	
+}
+.negro{
+	background-color: black;
+}
+#relative{
+	position: relative;
+	left:50px;
+}
+#adsolute{
+	position: absolute;
+	left:1070px;
+	top:408px;
+}
+
+
+
+
+
+
+
